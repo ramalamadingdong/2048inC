@@ -4,6 +4,7 @@ Programming the game 2048 in purely C
 To compile and run my code follow the following instructions:
 
 Download Dependencies:
+
 	sudo apt-get install gcc libgl1-mesa-dev libglu1-mesa-dev cmake build-essential make libxcursor-dev
 	sudo apt-get install cmake g++ freeglut3-dev libxcursor-dev libpng12-dev libjpeg-dev libfreetype6-dev libgtk2.0-dev libasound2-dev libpulse-dev libopenal-dev libflac-dev libdumb1-dev libvorbis-dev libphysfs-dev
 
