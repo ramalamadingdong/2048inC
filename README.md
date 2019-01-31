@@ -1,5 +1,5 @@
 # 2048inC
-Programming the game 2048 in purely C
+Programming the game 2048 purely in C
 
 To compile and run my code follow the following instructions:
 
